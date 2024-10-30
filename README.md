@@ -26,7 +26,7 @@ A lightweight, customizable weekly schedule management system built with vanilla
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weekly-schedule-manager.git
+git clone https://github.com/phatneglo/weekly-schedule-manager.git
 ```
 
 2. Open `index.html` in your web browser or serve it through a local server:
